@@ -1,0 +1,64 @@
+body{
+	color:#000000;
+	background-image:url("streets.jpg");  
+	background-attachment:fixed;
+	
+}
+.row{
+	text-align:center;
+}
+p{
+	margin:0 auto;
+	padding-top: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+	font-size:20px;
+}
+.mycolor{
+	color:red;
+}
+.box{
+	color:green;
+}
+}
+.foot{
+	background-color:brown;
+}
+img{
+	height:400px;
+	width:100%;
+}
+#image6{
+	height:20px;
+	width:40%;
+}
+#background {
+		min-width:100%;
+		min-height:610px;
+		background-image: url('white.jpg');
+		background-size:100;
+		opacity:0.8;
+		filter:aplha(opacity=80);
+}
+#balls {
+	height:5px;
+	width:5px;
+}
+span { color:white;
+}
+#example1 {
+		background-image: url('white.jpg');
+		width:100%;
+		min-height:100%;
+		background-size:100;
+		opacity:0.8;
+		filter:aplha(opacity=80);
+}
+h1 {
+	color:red;
+}
+a {color:inherit;
+}
+#kev{
+	background-color:grey;
+}
